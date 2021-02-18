@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257140745990",
+    "firebase_url": "https://choona-8db54.firebaseio.com",
+    "project_id": "choona-8db54",
+    "storage_bucket": "choona-8db54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257140745990:android:1ab6e4f24725fb46a32087",
+        "android_client_info": {
+          "package_name": "com.choona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257140745990-pd17mib4ikg3pf1uh04irn1vtqrg3qn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.choona",
+            "certificate_hash": "bb7dbcaa2a5d7e403a2114593168a8843091f414"
+          }
+        },
+        {
+          "client_id": "257140745990-cf9v8bq5rm7end7jiglg7jp735rifihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrj56IvR7oBgP5IZim95ziMyRmw88flnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257140745990-cf9v8bq5rm7end7jiglg7jp735rifihv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257140745990-b00tir0rv6cd3gmb934cqql5e6i6eagv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webskitters.Choona"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
